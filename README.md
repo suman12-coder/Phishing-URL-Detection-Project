@@ -27,6 +27,4 @@ The final model was deployed as an interactive Streamlit web application for rea
 
 ###  Project Workflow
 ```text
-Raw Data → Data Preprocessing →EDA → Feature Engineering → 
- Model Training → Evaluation → 
-Model Saving → Streamlit Deployment
+Raw Data → Data Preprocessing →EDA → Feature Engineering → Model Training → Evaluation → Model Saving → Streamlit Deployment
