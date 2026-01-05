@@ -1,5 +1,5 @@
 ### 🔐 Phishing URL Detection
-
+---
 # Overview
 
 This project aims to detect phishing websites using machine learning techniques based on URL and website-based features.
@@ -9,8 +9,7 @@ Multiple classification models including Logistic Regression and Random Forest C
 The final model was deployed as an interactive Streamlit web application for real-time prediction.
 ---
 ### 🌐 Live App
-[Click here to open the deployed Streamlit App]
-🔗 https://phishing-url-detection-project-cj7tpltrmzqb96n6rwcopq.streamlit.app/
+[Click here to open the deployed Streamlit App](https://phishing-url-detection-project-cj7tpltrmzqb96n6rwcopq.streamlit.app/)
 ---
 ### 🎯 Objectives
 
