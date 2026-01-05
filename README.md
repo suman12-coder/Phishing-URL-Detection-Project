@@ -22,3 +22,11 @@ The final model was deployed as an interactive Streamlit web application for rea
 - Compare model performance using accuracy, precision, recall, and F1-score
 
 - Deploy an end-to-end phishing detection web application
+
+---
+
+###  Project Workflow
+```text
+Raw Data → Data Preprocessing →EDA → Feature Engineering → 
+ Model Training → Evaluation → 
+Model Saving → Streamlit Deployment
