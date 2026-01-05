@@ -155,15 +155,7 @@ joblib.dump(model, "phishing_model.pkl")
 * Feature-based URL analysis proves to be a reliable approach for phishing detection
 * Successful deployment enables real-time phishing classification for end users
 
----
 
-## **Future Enhancements**
-
-* Integrate real-time URL feature extraction
-* Add Gradient Boosting / XGBoost for performance comparison
-* Deploy using Docker and AWS for production scalability
-* Implement logging and monitoring for predictions
-* Extend model to detect zero-day phishing URLs
 
 ---
 
